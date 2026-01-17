@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "老高豆豉店"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
