@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"   
   name             : "Imaginary_17"
-  pronouns         : "he"# example: "she/her"  
+  pronouns         : ""# example: "she/her"  
   bio              : "个人介绍"
   location         : "Xi'an, Shaanxi, China"
   employer         : "Xidian University"
